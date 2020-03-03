@@ -1,1 +1,1 @@
-git in practice
+Learning git
