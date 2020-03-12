@@ -1,5 +1,17 @@
 changes from dev
+
 <<<<<<< HEAD
+
+<<<<<<< HEAD
+=======
+
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+=======
+changes from master
+>>>>>>> changes from master
+>>>>>>> dev
 =======
 changes from master
 >>>>>>> changes from master
